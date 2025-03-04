@@ -115,3 +115,4 @@ This system provides a **basic yet effective** collaborative filtering model for
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/47e1e52f-7224-43f3-b93e-94c84846c72d)
